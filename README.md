@@ -34,13 +34,10 @@ road-sign-recognition-raspberrypi/
 │   └── sensor_module.py         
 │
 ├── 📁 images/
-│   ├── blockdiagram              
-│        
+│   ├── blockdiagram.png              
+│   ├── Rasberrypie_pin_diagram.png     
 │
-├── 📁 hardware/
-│   ├── circuit_diagram.png      
-│   └── parts_list.txt           
-│
+│  
 ├── requirements.txt            
 ├── README.md                    
 └── run.sh  
