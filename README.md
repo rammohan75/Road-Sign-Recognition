@@ -24,16 +24,16 @@ This project enhances road safety by enabling real-time road sign recognition an
 - RPi.GPIO
 - imutils
 
-## 📁 Folder Structure
+##  Folder Structure
 road-sign-recognition-raspberrypi/
 │
-├── 📁 backend/
+├──  backend/
 │   ├── control.py               
 │   ├── detect_signs.py          
 │   ├── motor_driver.py         
 │   └── sensor_module.py         
 │
-├── 📁 images/
+├──  images/
 │   ├── blockdiagram.png              
 │   ├── Rasberrypie_pin_diagram.png     
 │
