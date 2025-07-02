@@ -28,10 +28,10 @@ This project enhances road safety by enabling real-time road sign recognition an
 road-sign-recognition-raspberrypi/
 │
 ├── 📁 backend/
-│   ├── control.py               # Controls DC and servo motors based on recognized signs
-│   ├── detect_signs.py          # Main script to process video frames and recognize road signs
-│   ├── motor_driver.py          # L293D motor driver control logic
-│   └── sensor_module.py         # Ultrasonic sensor module to detect nearby obstacles
+│   ├── control.py               
+│   ├── detect_signs.py          
+│   ├── motor_driver.py         
+│   └── sensor_module.py         
 │
 ├── 📁 images/
 │   ├── blockdiagram              
